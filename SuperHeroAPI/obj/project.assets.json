@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1029541\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
+      "projectUniqueName": "C:\\API\\GitProject\\API_.NET\\SuperHeroAPI\\SuperHeroAPI.csproj",
       "projectName": "SuperHeroAPI",
-      "projectPath": "C:\\Users\\1029541\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
+      "projectPath": "C:\\API\\GitProject\\API_.NET\\SuperHeroAPI\\SuperHeroAPI.csproj",
       "packagesPath": "C:\\Users\\1029541\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1029541\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\obj\\",
+      "outputPath": "C:\\API\\GitProject\\API_.NET\\SuperHeroAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\1029541\\AppData\\Roaming\\NuGet\\NuGet.Config",
