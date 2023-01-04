@@ -16,7 +16,7 @@ namespace SuperHeroAPI.Controllers
                 new Hero
                 {
                     Id = 1,
-                    name = "superman",
+                    name = "IronMan",
                     address = "kar"
 
                 }
